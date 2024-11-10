@@ -1,4 +1,7 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+#  Ex No:1b Study of Client Server Chat Applications
+## roll no : 212223100034
+## Date : 19/8/2024
+
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
